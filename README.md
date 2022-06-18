@@ -14,7 +14,7 @@ Some tools in my kit include Python(Flask), JS(ReactJs), Git,Documentation , HTM
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on openmrs and eddiehub community projects
-- 🌱 I’m currently learning all things Js, React, Node, mongodb, Express (MERN)
+- 🌱 I’m currently learning all things (MERN), React, Node, mongodb, Express 
 - 👯 I’m looking to collaborate on open source react projects
 - 🤔 I’m looking for help with writing technical blogs
 - 💬 Ask me about QA, Python and JS
