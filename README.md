@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nicholas Masete, I'm a Software Engineer, QA Analyst and OpenSource Advocate.
+I am Nicholas Masete, I'm a Software Engineer(JS, Python) and OpenSource Advocate.
 I studied Software Engineering at Makerere University Kampala.
 I reside in Kampala, Uganda.
 
