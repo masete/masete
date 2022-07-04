@@ -8,7 +8,7 @@ I am open for remote work.
 
 I am passionate about creating and contributing to solutions that make the world a better place, building communities and advocating for open source.
 
-Some tools in my kit include Python(Flask), JS(ReactJs), Git,Documentation , HTML5 and CSS. 
+Some tools in my kit include Python(Flask, Plotly-Dash), JS(ReactJs), Git,Documentation , HTML5 and CSS. 
 
 
 Here are some ideas to get you started:
