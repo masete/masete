@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dream in 0's and 1's
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masete)](https://github.com/anuraghazra/github-readme-stats)
+
