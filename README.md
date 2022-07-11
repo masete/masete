@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nicholas Masete</h1>
-<h3 align="center">I am Nicholas Masete, I'm a Software Engineer(JS, Python) and OpenSource Advocate. I studied Software Engineering at Makerere University Kampala. I reside in Kampala, Uganda. I am open for remote work. I am passionate about creating and contributing to solutions that make the world a better place, building communities and advocating for open source.</h3>
+<h3 align="center"> Iam a Software Engineer(JS, Python) and OpenSource Advocate. I studied Software Engineering at Makerere University Kampala. I reside in Kampala, Uganda. I am open for remote work. I am passionate about creating and contributing to solutions that make the world a better place, building communities and advocating for open source.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masete" alt="masete" /></a> </p>
 
