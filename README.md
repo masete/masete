@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **I’m looking for help with writing technical blogs**
 
-- 👯 I’m looking to collaborate on **I’m currently learning all things (MERN), React, Node, mongodb, Express**
+- 👯 I’m looking to collaborate on **I’m currently learning all things ReactJs, Python(Flask, Django) , TailwindCSS , Postgresql**
 
 - 🤝 I’m looking for help with **I’m looking to collaborate on open source react projects**
 
