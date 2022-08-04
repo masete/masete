@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **I’m looking to collaborate on open source react projects**
 
-- 📝 I regularly write articles on [https://medium.com/@nicholasmasete](https://medium.com/@nicholasmasete)
+- 📝 I regularly write articles on [https://medium.com/@nicholasmasete](https://medium.com/@nicholasmasete) and Hashnode
 
 - ⚡ Fun fact **I dream in 0's and 1's**
 
