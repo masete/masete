@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nicholas Masete</h1>
-<img src="[https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?layoutQuery=banner](https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?utm_content=DAFIlWd9A5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="nicholas" /><a/>
+<a> <img src="[https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?layoutQuery=banner](https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?utm_content=DAFIlWd9A5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="nicholas" /><a/>
 <h3 align="center"> Iam a Software Engineer(JS, Python) and OpenSource Advocate. I studied Software Engineering at Makerere University Kampala. I reside in Kampala, Uganda. I am open for remote work. I am passionate about creating and contributing to solutions that make the world a better place, building communities and advocating for open source.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masete" alt="masete" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **I’m currently working on these two open source projects (openmrs and eddiehub community projects)**
 
-- 🌱 I’m currently learning **I’m looking for help with writing technical blogs**
+- 🌱 I’m currently learning ** Data pipelines, Data warehousing**
 
 - 👯 I’m looking to collaborate on **I’m currently learning all things Data -Cleaning, visualization, Business intelligence, Power BI, Machine Learning, Python(Flask, Django) , TailwindCSS , Postgresql**
 
