@@ -17,11 +17,11 @@ NodeJS • ExpressJS • Python Flask, Plotly-dash • REST APIs  • PostgreSQL
 
 - 🔭 I’m currently working on **a recommendations engine for startups for VC more likely to invest with them.**
 
-- 🌱 I’m currently learning ** Data pipelines, Data warehousing**
+- 🌱 I’m currently persuing **My Masters in Data Science**
 
 - 👯 I’m looking to collaborate on **on a machine learning project about AI, open ai**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **a research paper about VC funding and predtive analysis**
 
 - 📝 I regularly write articles on [https://medium.com/@nicholasmasete](https://medium.com/@nicholasmasete) and Hashnode
 
