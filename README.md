@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Nicholas Masete here.....</h1>
+<h1 align="center">Hi 👋, Nicholas Masete here.....</h1>
 <a> <img src="[https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?layoutQuery=banner](https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?utm_content=DAFIlWd9A5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="nicholas" /><a/>
 <h3 align="center"> Hello, thank you for visiting my Github profile. My aim is to make accurate predictions about the future using in-depth data modeling, machine learning and deep learning.
 Am an open-source contributor with an ambitious personality that thrives on challenges. Setting new goals and aiming to be more productive and effective in any environment. Looking for opportunities where I can be part of engineering impact software solutions using my hard-earned skills in Data Engineering.
