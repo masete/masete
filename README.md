@@ -2,30 +2,15 @@
 
 <h1 align="center">Hi 👋, Nicholas Masete here.....</h1>
 <a> <img src="[https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?layoutQuery=banner](https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?utm_content=DAFIlWd9A5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="nicholas" /><a/>
-<h3 align="center"> Hello, thank you for visiting my Github profile. My aim is to make accurate predictions about the future using in-depth data modeling, machine learning and deep learning.
-Am an open-source contributor with an ambitious personality that thrives on challenges. Setting new goals and aiming to be more productive and effective in any environment. Looking for opportunities where I can be part of engineering impact software solutions using my hard-earned skills in Data Engineering.
-
-Cloud Data Engineering.
-Machine Learning, BigQuery, Cloud Datalab, CloudSQL, Cloud Dataproc.
-
-Back-End Development
-NodeJS • ExpressJS • Python Flask, Plotly-dash • REST APIs  • PostgreSQL • MySQL • MongoDB..</h3>
+<h3 align="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masete" alt="masete" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@nicholasmasete" target="blank"><img src="https://img.shields.io/twitter/follow/@nicholasmasete?logo=twitter&style=for-the-badge" alt="@nicholasmasete" /></a> </p>
 
-- 🔭 I’m currently working on **a recommendations engine for startups for VC more likely to invest with them.**
-
-- 🌱 I’m currently persuing **My Masters in Data Science**
-
-- 👯 I’m looking to collaborate on **on a machine learning project about AI, open ai**
-
-- 🤝 I’m looking for help with **a research paper about VC funding and predtive analysis**
 
 - 📝 I regularly write articles on [https://medium.com/@nicholasmasete](https://medium.com/@nicholasmasete) and Hashnode
 
-- ⚡ Fun fact **I dream in 0's and 1's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
