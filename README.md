@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, Nicholas Masete here.....</h1>
+<h1 align="center">Hi 👋, Nicholas Masete</h1>
 <a> <img src="[https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?layoutQuery=banner](https://www.canva.com/design/DAFIlWd9A5A/2BT6dAB5gRBFaOvNiub7Og/edit?utm_content=DAFIlWd9A5A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="nicholas" /><a/>
 <h3 align="center">
 
